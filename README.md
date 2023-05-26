@@ -1,7 +1,3 @@
-# text2vec-spacy Weaviate module
-
-This is an example of using a Spacy (with Transformer base model) as Weaviate vectorization module. This example can be used to show how the `text2vec-transformers` module code in Weaviate can be used to vectorize text with a SpaCy model. Documentation of [custom Weaviate modules, option A](https://www.semi.technology/developers/weaviate/current/modules/custom-modules.html#a-replace-parts-of-an-existing-module) is followed. 
-
 ## How to use
 
 `pip install -r requirements.txt` (`pip3 install -r requirements.txt`)
